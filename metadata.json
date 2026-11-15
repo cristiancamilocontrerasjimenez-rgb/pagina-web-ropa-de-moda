@@ -1,0 +1,8 @@
+{
+  "name": "Norte & Trama — Estudio Digital",
+  "description": "Estudio estratégico de diseño web, identidad de marca y arquitectura de conversión digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
